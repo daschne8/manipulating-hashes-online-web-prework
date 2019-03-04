@@ -7,6 +7,6 @@ def second_challenge
   }
 
   foods = groceries.values
-
+  return foods
 
 end
